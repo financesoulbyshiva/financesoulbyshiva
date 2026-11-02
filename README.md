@@ -1,6 +1,6 @@
 ** <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&text=SHIVPRASAD%20GOPAWAR&fontSize=43&fontColor=ffffff&fontAlignY=48&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%7C%20CYBERSECURITYR%20%7C%20WEB%20DEVELOPER&descAlignY=68&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&text=SHIVPRASAD%20GOPAWAR&fontSize=43&fontColor=ffffff&fontAlignY=48&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%7C%20CYBERSECURITY%20%7C%20WEB%20DEVELOPER&descAlignY=68&animation=twinkling" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=16865A&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shivprasad+Gopawar;Building+Real-World+Software;Exploring+AI+%26+Cybersecurity;Full-Stack+Developer+%7C+Tech+Enthusiast;Think.+Build.+Improve.+Repeat." alt="Animated introduction" />
