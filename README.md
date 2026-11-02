@@ -1,107 +1,164 @@
-<div align="center">
+ <div align="center">
 
-# Hey, I'm Shivprasad Gopawar 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&text=SHIVPRASAD%20GOPAWAR&fontSize=43&fontColor=ffffff&fontAlignY=48&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=68&animation=twinkling" width="100%" />
 
-### Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=16865A&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Shivprasad+Gopawar;Building+Real-World+Software;Exploring+AI+%26+Cybersecurity;Full-Stack+Developer+%7C+Tech+Enthusiast;Think.+Build.+Improve.+Repeat." alt="Animated introduction" />
+</a>
 
-Building practical software, thoughtful user experiences, and secure systems.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-financesoulbyshiva-181717?style=for-the-badge&logo=github)](https://github.com/financesoulbyshiva)
-[![LinkedIn](www.linkedin.com/in/shivaaydav0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-16865A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/financesoulbyshiva)
+<a href="https://github.com/financesoulbyshiva">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shivaaydav0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=financesoulbyshiva&label=PROFILE%20VIEWS&color=16865A&style=flat-square" />
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a software engineering student and developer focused on building end-to-end applications that solve real problems. I enjoy working across frontend, backend, databases, security, and AI-assisted engineering.
+Hey! I'm **Shivprasad Gopawar**, a software engineering student and developer interested in building meaningful digital products.
 
-- Building production-oriented full-stack applications.
-- Exploring AI engineering, cybersecurity, and OSINT workflows.
-- Interested in clean architecture, practical testing, and application security.
-- Learning by building, debugging, documenting, and improving real projects.
+I enjoy working across the complete software development lifecycle — from designing interfaces and developing backend systems to database architecture, application security, testing, and deployment.
 
-## What I'm working on
+My philosophy:
 
-| Project | Focus | Overview |
-|---|---|---|
-| **NEXUS-OSINT** | Cybersecurity · OSINT · AI | An intelligence investigation platform concept focused on structured OSINT workflows and responsible research. |
-| **Saheli** | Full-stack · Maps · Safety | A location-aware safety and assistance application with authentication and map-based features. |
-| **CareerPath AI** | EdTech · AI · Full-stack | A career guidance platform designed to help students explore pathways through assessments and structured guidance. |
-| **ProjectPulse** | Data Science · Project Management | A project tracking application combining a web interface, API backend, and data-driven features. |
-| **LUCOUS** | EdTech · Product Engineering | A gamified learning platform for students, with parent and admin experiences. |
+> Understand the problem. Engineer the solution. Build with purpose.
 
-> Project descriptions are intentionally concise. Visit each repository for current implementation details, setup instructions, and verified capabilities.
+- 🚀 Developing full-stack applications and real-world software products.
+- 🧠 Exploring Artificial Intelligence, AI engineering, and automation.
+- 🔐 Interested in cybersecurity, OSINT, and secure application architecture.
+- 🛠️ Learning modern web technologies, APIs, and database systems.
+- 📚 Improving independent coding, debugging, testing, and engineering skills.
 
-## Tech stack
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 NEXUS-OSINT
+
+**Cybersecurity · OSINT · AI Engineering**
+
+An intelligence investigation platform focused on structured OSINT workflows, information discovery, and responsible research.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌸 Saheli
+
+**Full-Stack · Maps · Safety Technology**
+
+A location-aware safety and assistance application with authentication and map-based functionality.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 CareerPath AI
+
+**EdTech · AI · Full-Stack**
+
+A career guidance platform designed to help students explore career pathways through assessments and structured guidance.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 ProjectPulse
+
+**Data Science · Project Management**
+
+A project tracking application combining a web frontend, API backend, database, and data-driven features.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📚 LUCOUS
+
+**EdTech · Product Engineering**
+
+A gamified learning platform designed to make education more engaging, with dedicated parent and admin experiences.
+
+</td>
+</tr>
+</table>
+
+## ⚡ Technology Stack
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff)
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 
-**Frontend**
+**Frontend Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 
-**Backend & Data**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase,sqlite,mongodb" />
 
-**Tools & Practices**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,docker" />
 
 </div>
 
-## GitHub at a glance
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=financesoulbyshiva&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=financesoulbyshiva&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=financesoulbyshiva&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com?user=financesoulbyshiva&hide_border=true&theme=default" alt="GitHub contribution streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=financesoulbyshiva&layout=compact&hide_border=true&theme=default" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=financesoulbyshiva&hide_border=true&theme=default" />
 
 </div>
 
-## Current focus
+## 🎯 Current Focus
 
-- Strengthening full-stack engineering fundamentals.
-- Designing secure authentication, authorization, and data access.
-- Improving test coverage, debugging skills, and deployment workflows.
-- Building AI features with clear evaluation and human oversight.
+| Area | Direction |
+|---|---|
+| Software Engineering | Clean architecture and maintainable code |
+| Full-Stack Development | End-to-end application development |
+| Cybersecurity | Application security and OSINT |
+| AI Engineering | Practical AI integrations and evaluation |
+| Backend Engineering | APIs, authentication, and databases |
+| Engineering Practice | Testing, debugging, and deployment |
 
-## Let's connect
+## 🤝 Let's Connect
 
-I'm open to connecting with developers, collaborators, and people building useful technology.
-
-- GitHub: [@financesoulbyshiva](https://github.com/financesoulbyshiva)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-
----
+I'm always interested in connecting with developers, exchanging ideas, collaborating on meaningful projects, and learning from the tech community.
 
 <div align="center">
 
-*Build with purpose. Learn continuously. Ship responsibly.*
+<a href="https://github.com/financesoulbyshiva">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/shivaaydav0/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br/><br/>
+
+### ✨ Think Deeply. Build Intelligently. Create Impact.
+
+*Always learning. Always building. Always improving.*
 
 </div>
