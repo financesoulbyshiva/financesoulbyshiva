@@ -7,7 +7,7 @@
 Building practical software, thoughtful user experiences, and secure systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-financesoulbyshiva-181717?style=for-the-badge&logo=github)](https://github.com/financesoulbyshiva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](www.linkedin.com/in/shivaaydav0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-16865A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/financesoulbyshiva)
 
 </div>
